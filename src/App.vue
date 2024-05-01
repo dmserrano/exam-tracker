@@ -7,6 +7,7 @@ import { RouterLink, RouterView } from 'vue-router'
     <div class="wrapper">
       <nav>
         <RouterLink to="/">Dashboard</RouterLink>
+        <RouterLink to="/question/list">Question List</RouterLink>
       </nav>
     </div>
   </header>
