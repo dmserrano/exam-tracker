@@ -2,6 +2,6 @@
 
 <template>
   <div>
-    <button>Add Question</button>
+    <button class="btn btn-success">Add Question</button>
   </div>
 </template>
